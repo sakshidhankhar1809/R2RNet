@@ -1,0 +1,19 @@
+# List required packages in this file, one per line.
+numpy
+pandas
+scipy
+scikit-learn
+openpyxl
+shutil
+gzip
+pyarraow
+bs4
+pathlib
+tensorflow
+datetime
+matplotlib
+tarfile
+requests
+os
+PIL 
+latex
