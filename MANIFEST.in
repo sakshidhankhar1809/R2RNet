@@ -1,0 +1,5 @@
+include README.md
+include requirements.txt
+
+global-include *.yaml
+recursive-include floodpredictions/data/sourcedata *
