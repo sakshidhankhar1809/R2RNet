@@ -1,6 +1,6 @@
 # R2RNet: A deep spatiotemporal RaintoRiverNetwork for water level prediction and flood forecasting
 
-This repository contains the code for the paper "R2RNet: A deep spatiotemporal RaintoRiverNetwork for water level prediction and flood forecasting" at: [10.1016/j.ejrh.2025.102571](10.1016/j.ejrh.2025.102571).
+This repository contains the code for the paper "R2RNet: A deep spatiotemporal RaintoRiverNetwork for water level prediction and flood forecasting" at: [10.1016/j.ejrh.2025.102571](https://www.sciencedirect.com/science/article/pii/S2214581825003969)).
 
 
 ## Introduction
